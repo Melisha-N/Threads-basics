@@ -1,6 +1,6 @@
 package com.wolken.wolkenapp.Utilities;
 
-public class UtilityDemo {
+public class UtilityDemo { //static methods
 	
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("Inside Utility Demo");
